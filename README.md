@@ -388,6 +388,7 @@ src="data:image/jpeg;base64,
   text-align: left;
   vertical-align: top;
 }
+
 ```
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-20 084419.png>)
